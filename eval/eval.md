@@ -10,7 +10,7 @@
 ```json
 {
     "initial_scene_image_name1": "final_scene_description1",
-    "initial_scene_image_name2": "final_scene_description2",
+    "initial_scene_image_name2": "final_scene_description2"
 }
 ```
 
