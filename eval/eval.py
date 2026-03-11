@@ -73,7 +73,7 @@ class Evaluator(BaseEvaluator):
 
                 caption = self.long_caption.get(start_frame, None)
                 if not caption:
-                    print('No specified scene description for the initial scene image:', start_frame)
+                    print('No predicted final-scene description for the initial-scene image:', start_frame)
                     continue
 
                 if eval_mode == 'single-scene':
