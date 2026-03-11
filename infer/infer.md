@@ -23,9 +23,9 @@
 
 ## Step 3: Execute Inference
 
-Run: bash [infer.sh](infer.sh).
+Run: `bash infer.sh`.
 
-Here is an example of `infer.sh`:
+Here is an example of [infer.sh](infer.sh):
 ```bash
 #!/bin/bash
 
