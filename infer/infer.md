@@ -2,7 +2,7 @@
 
 ## Step 1: Data Preparation
 
-**Download the [dataset](https://huggingface.co/datasets/JackYu6/EXPLORE-Dataset)** to your local directory and set the `OUTPUT_PATH` environment variable to point to that location.
+**Download the [dataset](https://huggingface.co/datasets/pengfei2025/EXPLORE-Dataset)** to your local directory and set the `OUTPUT_PATH` environment variable to point to that location.
 
 ## Step 2: Model Configuration
 

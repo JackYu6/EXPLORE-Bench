@@ -3,7 +3,7 @@
 <div align=center>
 
 [![arXiv preprint](https://img.shields.io/badge/arxiv-2603.09731-ECA8A7?logo=arxiv)](https://arxiv.org/abs/2603.09731) 
-[![Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/JackYu6/EXPLORE-Dataset)
+[![Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/pengfei2025/EXPLORE-Dataset)
 [![Project Page](https://img.shields.io/badge/🌐%20Project-Page-9DC3E6)](https://jackyu6.github.io/EXPLORE-Page/)
 
 </div>
@@ -35,7 +35,7 @@ python -m spacy download en_core_web_lg
 Download the weights of [Sentence-Transformers](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) and [Qwen3](https://huggingface.co/Qwen/Qwen3-8B) from huggingface.
 
 ### 🤗 Dataset
-Our dataset is hosted on [HuggingFace](https://huggingface.co/datasets/JackYu6/EXPLORE-Dataset). 
+Our dataset is hosted on [HuggingFace](https://huggingface.co/datasets/pengfei2025/EXPLORE-Dataset). 
 
 ### ⚙️ Inference
 Our codebase supports a variety of models for inference. Adjust the settings in `infer/infer.sh`, then run the script to begin your inference.
