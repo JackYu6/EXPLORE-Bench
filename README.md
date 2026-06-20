@@ -1,4 +1,4 @@
-# EXPLORE-Bench: Egocentric Scene Prediction with Long-Horizon Reasoning (ECCV 2026)
+# EXPLORE-Bench: Egocentric Scene Prediction with Long-Horizon Reasoning
 
 <div align=center>
 
